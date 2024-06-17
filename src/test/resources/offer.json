@@ -1,0 +1,30 @@
+{
+  "id": "7e231955-62c4-4142-ab37-146357275bc6",
+  "offerNumber": 52,
+  "createdAt": "2024-06-11T12:41:37.136595Z",
+  "state": "VERIFICATION",
+  "incoterms": "FAS",
+  "placeOfShipment": "Москва",
+  "productInStock": true,
+  "comment": "Тест",
+  "businessUnits": [
+    {
+      "id": "d145088a-bee3-4dd9-b9a2-d5d5aaa01808",
+      "code": "BU_TELECOM_GADGET",
+      "state": "NEW",
+      "manager": null,
+      "comment": null,
+      "reasonReject": null,
+      "updatedAt": null
+    },
+    {
+      "id": "ed1821ac-587f-4a89-94bb-c49ac0579c1d",
+      "code": "BU_TELECOM_SMARTPHONE",
+      "state": "NEW",
+      "manager": null,
+      "comment": null,
+      "reasonReject": null,
+      "updatedAt": null
+    }
+  ]
+}

@@ -1,2 +1,5 @@
-package model;public enum State {
+package model;
+
+public enum State {
+    NEW, VERIFICATION
 }
